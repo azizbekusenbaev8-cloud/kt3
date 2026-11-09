@@ -58,7 +58,7 @@ if __name__ == "__main__":
     api = BaseRequest("https://petstore.swagger.io/v2")
 
     print("\n>>> ТЕСТЫ ДЛЯ USER <<<")
-    username = "my_test_user_123"
+    username = "student_test_2026_v2"
     
     user_data = {
         "id": 123,
